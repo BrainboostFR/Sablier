@@ -1,4 +1,4 @@
-# Hourglass Overlay
+# Sablier
 
 Une application de sablier élégante et minimaliste développée avec Python et PySide6. Cet outil crée une fenêtre flottante semi-transparente sur votre écran qui s'écoule en temps réel.
 
